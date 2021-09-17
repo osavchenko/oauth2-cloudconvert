@@ -1,11 +1,13 @@
 # CloudConvert Provider for OAuth 2.0 Client
-[![Latest Version](https://img.shields.io/github/release/osavchenko/oauth2-cloudconvert.svg?style=flat-square)](https://github.com/osavchenko/oauth2-cloudconvert/releases)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/osavchenko/oauth2-cloudconvert/master.svg?style=flat-square)](https://travis-ci.org/osavchenko/oauth2-cloudconvert)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/osavchenko/oauth2-cloudconvert.svg?style=flat-square)](https://scrutinizer-ci.com/g/osavchenko/oauth2-cloudconvert/code-structure)
-[![Quality Score](https://img.shields.io/scrutinizer/g/osavchenko/oauth2-cloudconvert.svg?style=flat-square)](https://scrutinizer-ci.com/g/osavchenko/oauth2-cloudconvert)
 
-This package provides [CloudConvert](https://cloudconvert.com/) OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
+[![Source Code](https://img.shields.io/badge/source-osavchenko/oauth2--cloudconvert-blue.svg?style=flat-square)](https://github.com/osavchenko/oauth2-cloudconvert)
+[![Latest Version](https://img.shields.io/github/release/osavchenko/oauth2-cloudconvert.svg?style=flat-square)](https://github.com/osavchenko/oauth2-cloudconvert/releases)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/osavchenko/oauth2-cloudconvert/blob/master/LICENSE)
+[![Build Status](https://img.shields.io/github/workflow/status/osavchenko/oauth2-cloudconvert/CI?label=CI&logo=github&style=flat-square)](https://github.com/osavchenko/oauth2-cloudconvert/actions?query=workflow%3ACI)
+[![Quality Score](https://img.shields.io/scrutinizer/g/osavchenko/oauth2-cloudconvert.svg?style=flat-square)](https://scrutinizer-ci.com/g/osavchenko/oauth2-cloudconvert)
+[![Codecov Code Coverage](https://img.shields.io/codecov/c/gh/osavchenko/oauth2-cloudconvert?label=codecov&logo=codecov&style=flat-square)](https://codecov.io/gh/osavchenko/oauth2-cloudconvert)
+
+This package provides [CloudConvert](https://cloudconvert.com/) OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/osavchenko/oauth2-cloudconvert).
 
 ## Installation
 
